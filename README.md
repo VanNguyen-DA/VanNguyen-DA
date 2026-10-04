@@ -29,41 +29,17 @@ My background combines marketing expertise with analytics, allowing me to transf
 
 ## 🛠 Tech Stack
 
-### Analytics & BI
-https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white
+### Power BI
+https://github.com/VanNguyen-DA/Power-BI
 
-### Data
-https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
-https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white
+### SQL
+https://github.com/VanNguyen-DA/SQL-Project
 
-### Marketing Platforms
-https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white
-https://img.shields.io/badge/Facebook_Ads-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
+### Python
+https://github.com/VanNguyen-DA/Machine-Learning
 
----
-
-## 📊 Featured Projects
-
-### Marketing Campaign Performance Dashboard
-**Tools:** Power BI, SQL, GA4
-
-- Built a dashboard to monitor traffic, conversions, ROI, and marketing KPIs.
-- Automated reporting and improved decision-making speed.
-
-### Customer Segmentation Analysis
-**Tools:** SQL, Tableau
-
-- Analyzed customer behavior and purchasing patterns.
-- Created segments to support targeted marketing strategies.
-
-### Digital Analytics Tracking Audit
-**Tools:** GA4, GTM
-
-- Audited website tracking implementations.
-- Improved data accuracy and reliability for marketing reporting.
+### Machine Learning
+https://github.com/VanNguyen-DA/Machine-Learning
 
 ---
 
@@ -84,18 +60,7 @@ International Marketing Strategy
 
 ---
 
-## 📈 GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact
-
----
-
 ### 📫 Let's Connect
 
-✅ Marketing Analytics  
-✅ Business Intelligence  
-✅ Digital Analytics  
-✅ Data Visualization  
-✅ Customer Insights
+✅ Email: vanthanh.nguyen294@gmail.com 
+✅ My Github Projects: https://github.com/VanNguyen-DA?tab=repositories
